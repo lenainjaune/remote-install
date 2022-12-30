@@ -1,3 +1,43 @@
+RO en attente de la fin de migration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # remote-install
 Voir [cette alternative fonctionnelle](https://github.com/lenainjaune/nbd_remote_disk) à base de nbd et p1v ([physical integered to virtual](https://github.com/lenainjaune/p2v_vs_v2p_vs_p1v#p1v))
 
